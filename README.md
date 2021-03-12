@@ -46,7 +46,7 @@ echo $(oc get route jupyterhub -n odh --template='http://{{.spec.host}}')
 
 Select the s2i-spark-minimal-notebook image and spawn the server. Leave the other settings as they are.
 
-Upload the `model_pipeline.ipynb` notebook.  Replace the `storage_account_name`, `client_id`, `client_secret`, `tenant_id`, and `connect_str` values.
+Upload the `model_pipeline.ipynb` notebook.  Set the variables in the second cell where it says `### ENTER YOUR DETAILS ###`.
 
 ## TODO 
 
