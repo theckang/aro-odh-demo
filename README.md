@@ -5,7 +5,7 @@ ARO demo using ODH and Azure data services
 ## Instructions
 
 Create service principal and grant access to data
-# https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-directory-file-acl-python
+https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-directory-file-acl-python
 
 Copy data to storage account
 
@@ -16,7 +16,7 @@ azcopy copy iris.data 'https://datalake555.dfs.core.windows.net/mycontainer/samp
 ```
 
 Configure anonymous access to storage container
-# https://docs.microsoft.com/en-us/azure/storage/blobs/anonymous-read-access-configure?tabs=portal
+https://docs.microsoft.com/en-us/azure/storage/blobs/anonymous-read-access-configure?tabs=portal
 
 ## TODO 
 
