@@ -1,2 +1,4 @@
-# aro-odh-demo
-Azure Red Hat OpenShift (ARO) demo using Open Data Hub (ODH) and Azure data services
+# Overview
+
+ARO demo using ODH and Azure data services
+
